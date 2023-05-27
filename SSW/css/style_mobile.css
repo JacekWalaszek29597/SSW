@@ -1,0 +1,20 @@
+
+
+
+body { background: red;
+background-color: red; }
+
+.element{
+	display: none;
+
+}
+
+.zadanie22{
+	font-size: 80px;
+	width: 100%;
+}
+
+.obrazki{
+	
+	max-width:50%
+}
